@@ -19,3 +19,37 @@ https://www.google.co.in/search?sclient=psy-ab&biw=1600&bih=799&q=full+free+best
 The Languages And Frameworks You Should Learn In 2016
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 http://tutorialzine.com/2015/12/the-languages-and-frameworks-you-should-learn-in-2016/
+
+100+ JavaScript Frameworks for Web Developers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://cssauthor.com/javascript-frameworks/
+
+Best JavaScript Frameworks, Libraries and Tools to use in 2017
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
+
+Top 23 Best Free JavaScript Frameworks for Web Developers 2017
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://colorlib.com/wp/javascript-frameworks/
+
+JS Full Libraries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.google.co.in/search?dcr=0&q=best+full+js+libraries&oq=best+full+js+lib&gs_l=psy-ab.3.1.33i21k1l2.366076.375055.0.377400.18.17.1.0.0.0.178.2031.1j15.16.0....0...1.1.64.psy-ab..1.15.1820...0j0i131k1j0i67k1j33i160k1j33i22i29i30k1.rFlsBuGBS7I
+
+https://www.google.co.in/search?dcr=0&q=js+frameworks&oq=js+fra&gs_l=psy-ab.3.0.0i67k1j0l3.36675.37161.0.38543.3.3.0.0.0.0.131.371.0j3.3.0....0...1.1.64.psy-ab..0.3.367.-OtwYg4gMvM
+
+how to access sql groups and users inc#
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/results?search_query=how+to+access+sql+groups+and+users+inc%23
+
+https://www.youtube.com/watch?v=KXDVl3kGmPU
+
+ASP.NET Combining Windows Authentication with Custom Application Groups/Roles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://stackoverflow.com/questions/42378016/asp-net-combining-windows-authentication-with-custom-application-groups-roles
+
+Authenticate a user against the Active Directory
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://www.c-sharpcorner.com/article/authenticate-a-user-against-the-active-directory/
+
+
