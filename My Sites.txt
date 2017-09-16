@@ -55,3 +55,8 @@ http://www.c-sharpcorner.com/article/authenticate-a-user-against-the-active-dire
 Radio button color is black in IE 11 but blue in IE 8 by default. How to make radio button of IE 11 same like IE 8?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 https://stackoverflow.com/questions/30253731/radio-button-color-is-black-in-ie-11-but-blue-in-ie-8-by-default-how-to-make-ra
+
+
+It's Kinda Like Netflix for Your Career! - Learn practical, modern web development, through expert screencasts. Most video tutorials are boring. These aren't. Ready to binge?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://laracasts.com (online video learnner) 
